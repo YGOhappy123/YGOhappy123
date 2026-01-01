@@ -47,14 +47,14 @@
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## 📁 My Projects
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Dashboard&theme=merko)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Server&theme=radical)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-AI-Training&theme=onedark)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=FlqCine-Review-Tagger&theme=gruvbox)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=NHT_Marine_BE&theme=tokyonight)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Airplane-Ticket-Sales-Client&theme=highcontrast)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Disease_Diagnoses_Dwh&theme=synthwave)
-![](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)
+[![Saigon-Steps-Dashboard](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Dashboard&theme=merko)](https://github.com/YGOhappy123/Saigon-Steps-Dashboard)
+[![Saigon-Steps-Server](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Server&theme=radical)](https://github.com/YGOhappy123/Saigon-Steps-Server)
+[![Saigon-Steps-AI-Training](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-AI-Training&theme=onedark)](https://github.com/YGOhappy123/Saigon-Steps-AI-Training)
+[![FlqCine-Review-Tagger](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=FlqCine-Review-Tagger&theme=gruvbox)](https://github.com/YGOhappy123/FlqCine-Review-Tagger)
+[![NHT_Marine_BE](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=NHT_Marine_BE&theme=tokyonight)](https://github.com/YGOhappy123/NHT_Marine_BE)
+[![Airplane-Ticket-Sales-Client](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Airplane-Ticket-Sales-Client&theme=highcontrast)](https://github.com/YGOhappy123/Airplane-Ticket-Sales-Client)
+[![Disease_Diagnoses_Dwh](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Disease_Diagnoses_Dwh&theme=synthwave)](https://github.com/YGOhappy123/Disease_Diagnoses_Dwh)
+[![IoT-Water-Quality-Management](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)](https://github.com/YGOhappy123/IoT-Water-Quality-Management)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-huy-ha-789935321)
