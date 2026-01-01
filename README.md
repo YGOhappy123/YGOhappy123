@@ -4,7 +4,7 @@
 🌱 I am studying Information Systems at the Posts and Telecommunications Institute of Technology – HCMC Branch.<br/>
 🎓 I've finished all my coursework and expect to graduate in mid-2026.<br/>
 💭 Currently learning about Artificial Intelligence and DevOps.<br/>
-✉️ You can contact me at hagiahuy21052003@gmail.com or n21dccn038@student.ptithcm.edu.vn<br/>
+✉️ You can contact me via emails at hagiahuy21052003@gmail.com or n21dccn038@student.ptithcm.edu.vn<br/>
 
 ![GitHub Stats](https://github-readme-stats-mu-topaz-44.vercel.app/api?username=YGOhappy123&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&hide=issues,contribs)
 
