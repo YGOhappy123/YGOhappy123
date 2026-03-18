@@ -67,10 +67,10 @@
 [![IoT-Water-Quality-Management](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)](https://github.com/YGOhappy123/IoT-Water-Quality-Management)
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gia-huy-ha-789935321)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gia-huy-ha-789935321)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YGOhappy123)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/flq.huy.2105)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/flq.huy)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GiaHuyH9)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/589001296523165696)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GiaHuyH9)
 
