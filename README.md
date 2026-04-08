@@ -1,5 +1,5 @@
 <div align="center">
-    <img width=300 src="./assets/tech-coder.gif"/>    
+    <img width=300 src="./assets/tech-coder.gif" style="border-radius: 12px; overflow: hidden;" />  
     <br/>
     <br/>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=00abf0&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+GIA+HUY!" alt="Typing SVG" /></a>
@@ -80,7 +80,7 @@
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GiaHuyH9)
 
 ## 🧑‍💻 Work Experience
-<img alt="YGOhappy123 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YGOhappy123&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution Graph Within 30 Days" />
+<img alt="YGOhappy123 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YGOhappy123&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution%20Graph%20Within%2030%20Days" />
 
 ---
 
