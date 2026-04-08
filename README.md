@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Gia Huy Hà⚡
+<div align="center">
+    <img width=300 src="./assets/tech-coding.gif"/>    
+    <br/>
+    <br/>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=40&duration=2000&pause=3000&color=E0DFF1&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+GIA+HUY+HA!" alt="Typing SVG" /></a>
+</div>
 
 💫 Welcome to my GitHub profile! I'm a passionate developer who loves building cool, efficient and scalable systems.<br/>
 🌱 I am studying Information Systems at the Posts and Telecommunications Institute of Technology – HCMC Branch.<br/>
@@ -53,18 +58,18 @@
 ![Ultralytics](https://img.shields.io/badge/ultralytics-%23111F68.svg?style=for-the-badge&logo=ultralytics&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=fff)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-%2300979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)\
+![Canva](https://custom-icon-badges.demolab.com/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=fff)
 
 ## 📁 My Projects
-[![Saigon-Steps-Dashboard](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Dashboard&theme=merko)](https://github.com/YGOhappy123/Saigon-Steps-Dashboard)
-[![Saigon-Steps-Server](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Server&theme=radical)](https://github.com/YGOhappy123/Saigon-Steps-Server)
-[![Saigon-Steps-AI-Training](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-AI-Training&theme=onedark)](https://github.com/YGOhappy123/Saigon-Steps-AI-Training)
-[![FlqCine-Review-Tagger](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=FlqCine-Review-Tagger&theme=gruvbox)](https://github.com/YGOhappy123/FlqCine-Review-Tagger)
-[![Airplane-Ticket-Sales-Client](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Airplane-Ticket-Sales-Client&theme=highcontrast)](https://github.com/YGOhappy123/Airplane-Ticket-Sales-Client)
+[![Saigon Steps Dashboard](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Dashboard&theme=merko)](https://github.com/YGOhappy123/Saigon-Steps-Dashboard)
+[![Saigon Steps Server](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-Server&theme=radical)](https://github.com/YGOhappy123/Saigon-Steps-Server)
+[![Saigon Steps AI Training](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-AI-Training&theme=onedark)](https://github.com/YGOhappy123/Saigon-Steps-AI-Training)
+[![FlqCine Review Tagger](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=FlqCine-Review-Tagger&theme=gruvbox)](https://github.com/YGOhappy123/FlqCine-Review-Tagger)
+[![Airplane Ticket Sales Client](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Airplane-Ticket-Sales-Client&theme=highcontrast)](https://github.com/YGOhappy123/Airplane-Ticket-Sales-Client)
 [![NHT_Marine_BE](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=NHT_Marine_BE&theme=tokyonight)](https://github.com/YGOhappy123/NHT_Marine_BE)
-[![Disease_Diagnoses_Dwh](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Disease_Diagnoses_Dwh&theme=synthwave)](https://github.com/YGOhappy123/Disease_Diagnoses_Dwh)
-[![IoT-Water-Quality-Management](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)](https://github.com/YGOhappy123/IoT-Water-Quality-Management)
+[![Disease Diagnoses Dwh](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Disease_Diagnoses_Dwh&theme=synthwave)](https://github.com/YGOhappy123/Disease_Diagnoses_Dwh)
+[![IoT Water Quality Management](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)](https://github.com/YGOhappy123/IoT-Water-Quality-Management)
 
 ## 🌐 Socials
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/gia-huy-ha-789935321)
@@ -73,4 +78,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/flq.huy)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/589001296523165696)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/GiaHuyH9)
+
+## 🧑‍💻 Work Experience
+<img alt="YGOhappy123 Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YGOhappy123&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
