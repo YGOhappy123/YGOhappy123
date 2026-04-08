@@ -2,7 +2,7 @@
     <img width=300 src="./assets/tech-coder.gif" style="border-radius: 12px; overflow: hidden;" />  
     <br/>
     <br/>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=2000&pause=3000&color=00abf0&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+GIA+HUY!" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Itim&size=36&duration=4000&pause=1000&color=00abf0&center=true&repeat=false&width=600&height=60&lines=Greetings%2C+wanderer!+I'm+GIA+HUY!;A+23-years-old+Vietnamese+developer!" alt="Typing SVG" /></a>
 </div>
 
 💫 Welcome to my GitHub profile! I'm a passionate developer who loves building cool, efficient and scalable systems.<br/>
