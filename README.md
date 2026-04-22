@@ -67,7 +67,7 @@
 [![Saigon Steps AI Training](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Saigon-Steps-AI-Training&theme=onedark)](https://github.com/YGOhappy123/Saigon-Steps-AI-Training)
 [![FlqCine Review Tagger](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=FlqCine-Review-Tagger&theme=gruvbox)](https://github.com/YGOhappy123/FlqCine-Review-Tagger)
 [![Airplane Ticket Sales Client](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Airplane-Ticket-Sales-Client&theme=highcontrast)](https://github.com/YGOhappy123/Airplane-Ticket-Sales-Client)
-[![NHT_Marine_BE](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=NHT_Marine_BE&theme=tokyonight)](https://github.com/YGOhappy123/NHT_Marine_BE)
+[![NHT Marine BE](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=NHT_Marine_BE&theme=tokyonight)](https://github.com/YGOhappy123/NHT_Marine_BE)
 [![Disease Diagnoses Dwh](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=Disease_Diagnoses_Dwh&theme=synthwave)](https://github.com/YGOhappy123/Disease_Diagnoses_Dwh)
 [![IoT Water Quality Management](https://github-readme-stats-mu-topaz-44.vercel.app/api/pin/?username=YGOhappy123&repo=IoT-Water-Quality-Management&theme=dracula)](https://github.com/YGOhappy123/IoT-Water-Quality-Management)
 
